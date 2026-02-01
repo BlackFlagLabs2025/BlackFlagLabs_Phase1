@@ -1,0 +1,1 @@
+git rm -r --cached node_modules dist                                                               git add .gitignore                                                                                   git commit -m "chore: remove node_modules/dist and add gitignore"
