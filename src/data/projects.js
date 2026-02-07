@@ -6,7 +6,7 @@ const projects = [
     id: "nexus-sentinel",
     desc: "Real-time cyber-intelligence dashboard with global threat visualization, autonomous analytics, and AI-driven risk detection.",
     img: "/screenshots/NexusAI1.png",
-    url: "https://sentinel-labs.xyz",
+    url: "https://www.sentinel-labs.xyz",
     tags: ["AI", "Cybersecurity", "Real-time Analytics"],
     gallery: [
       "/screenshots/NexusAI1.png",
@@ -20,7 +20,7 @@ const projects = [
     id: "aether-commerce",
     desc: "Next-gen commerce engine with quantum-responsive UI, intelligent pricing matrices, and instant checkout logic.",
     img: "/screenshots/AetherCommerceEngine1.png",
-    url: "https://aethercommerce.xyz",
+    url: "https://www.aethercommerce.xyz",
     tags: ["E-commerce", "AI Pricing", "Performance"],
     gallery: [
       "/screenshots/AetherCommerceEngine1.png",
@@ -34,7 +34,7 @@ const projects = [
     id: "helix-protocol",
     desc: "Futuristic cyber operating interface featuring modular control surfaces, holographic terminals, and protocol execution flows.",
     img: "/screenshots/HelixUI1.png",
-    url: "https://helix-ui.xyz",
+    url: "https://www.helix-ui.xyz",
     tags: ["UI/UX", "Cyberpunk", "Systems"],
     gallery: [
       "/screenshots/HelixUI1.png",

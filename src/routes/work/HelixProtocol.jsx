@@ -32,7 +32,7 @@ export default function HelixProtocol() {
         '/screenshots/HelixUI3.png',
         '/screenshots/HelixUI4.png'
       ]}
-      liveUrl="https://helix-ui.xyz"
+      liveUrl="https://www.helix-ui.xyz"
       language={language}
       t={t}
     />

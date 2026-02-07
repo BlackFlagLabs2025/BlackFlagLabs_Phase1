@@ -32,7 +32,7 @@ export default function AetherCommerce() {
         '/screenshots/AetherCommerceEngine3.png',
         '/screenshots/AetherCommerceEngine4.png'
       ]}
-      liveUrl="https://aethercommerce.xyz"
+      liveUrl="https://www.aethercommerce.xyz"
       language={language}
       t={t}
     />

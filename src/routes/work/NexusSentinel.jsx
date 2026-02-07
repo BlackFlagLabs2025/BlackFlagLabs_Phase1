@@ -32,7 +32,7 @@ export default function NexusSentinel() {
         '/screenshots/NexusAI3.png',
         '/screenshots/NexusAI4.png'
       ]}
-      liveUrl="https://sentinel-labs.xyz"
+      liveUrl="https://www.sentinel-labs.xyz"
       language={language}
       t={t}
     />
